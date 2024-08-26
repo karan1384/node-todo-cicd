@@ -1,6 +1,6 @@
 # Node Base Image
-FROM alpine:3.19
-#FROM node:12.2.0-alpine
+#FROM alpine:3.19
+FROM node:12.2.0-alpine
 
 #Working Directry
 WORKDIR /node
